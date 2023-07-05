@@ -15,15 +15,15 @@
     - [x] Incrementar entradas pelo usuário 
 
 - 3. Substring de um palindromo:
-    - [ ] Definir regras de palindromos
-    - [ ] Criar um método de catch
-    - [ ] Imprimir a substring encontrada
-    - [ ] Aceitar a entrada de outros testes
+    - [x] Definir regras de palindromos
+    - [x] Criar um método de catch
+    - [x] Imprimir a substring encontrada
+    - [x] Aceitar a entrada de outros testes
 
 - 4. Colocar em Maiúscula a primeira letra de cada frase:
 
-    - [ ] Fazer isto com o exemplo fornecido
-    - [ ] Aceitar outras entradas
+    - [x] Fazer isto com o exemplo fornecido
+    - [x] Aceitar outras entradas
 
 - 5. Verificação de string anagrama de um palindromo:
 
