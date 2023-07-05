@@ -1,4 +1,5 @@
 def inversor_str(string:str) -> str:
+    assert isinstance(string, str), "O parâmetro deve ser uma string!"
     if len(string) == 0:
         return 'A string está vazia!'
     saco_de_palavras = string.split()

@@ -11,8 +11,8 @@
     - [x] Gerar um código que aceite entradas
 
 - 2. Remoção de caracteres duplicados:
-    - [ ] Remover caracteres duplicados do exemplo fornecido
-    - [ ] Incrementar entradas pelo usuário 
+    - [x] Remover caracteres duplicados do exemplo fornecido
+    - [x] Incrementar entradas pelo usuário 
 
 - 3. Substring de um palindromo:
     - [ ] Definir regras de palindromos
