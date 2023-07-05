@@ -1,4 +1,4 @@
-def inversor_str(string):
+def inversor_str(string:str) -> str:
     if len(string) == 0:
         return 'A string está vazia!'
     saco_de_palavras = string.split()
