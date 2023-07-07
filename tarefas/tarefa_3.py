@@ -10,8 +10,8 @@ def verifica_palindromo(string:str) -> str:
             sub_string = sub_string[1:]
             string = string[:-1]
 
+if __name__ == "__main__":
+    input = 'babad'
 
-input = 'babad'
-
-print(verifica_palindromo(input))
+    print(verifica_palindromo(input))
 

@@ -21,8 +21,8 @@ def cap_frases(string) -> str:
             nova_string = nova_string[:char + 2] + nova_string[char + 2].upper() + nova_string[char +3:]
     return nova_string
 
-
-input = "hello. how are you? i'm fine, thank you."
-
-print(cap_frases(input))
+if __name__ == "__main__":
+    input = "hello. how are you? i'm fine, thank you."
+    
+    print(cap_frases(input))
 

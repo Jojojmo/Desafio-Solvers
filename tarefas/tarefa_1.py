@@ -6,6 +6,7 @@ def inversor_str(string:str) -> str:
     return str(' '.join(saco_de_palavras[::-1]))  
 
 
-input = "Hello, World! OpenAI is amazing"
+if __name__ == "__main__":
+    input = "Hello, World! OpenAI is amazing"
 
-print(inversor_str(input))
+    print(inversor_str(input))

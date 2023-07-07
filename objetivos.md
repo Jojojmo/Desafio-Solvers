@@ -27,7 +27,7 @@
 
 - 5. Verificação de string anagrama de um palindromo:
 
-    - [ ] Verificar o exemplo condedido
-    - [ ] Aceitar a entrada de outras strings
+    - [x] Verificar o exemplo condedido
+    - [x] Aceitar a entrada de outras strings
 
 <small>Obs: Para todos os itens, você pode presumir que a string de entrada conterá apenas caracteres alfabéticos, espaços e sinais de pontuação. A saída para cada tarefa deve ser retornada como uma string</small>

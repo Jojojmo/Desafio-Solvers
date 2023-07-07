@@ -6,6 +6,8 @@ def exclui_char_repetido(string: str) -> str:
             lista_char_unico.append(i)
     return(str(''.join(lista_char_unico)))
 
-input = "Hello, World!"
 
-print(exclui_char_repetido(input))
+if __name__ == "__main__":
+    input = "Hello, World!"
+
+    print(exclui_char_repetido(input))
